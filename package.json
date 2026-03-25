@@ -1,0 +1,13 @@
+{
+	"name": "mini-static",
+	"private": "true",
+	"version": "1.0.0",
+	"scripts": {
+		"build": "mkdir -p dist && cp index.html dist",
+		"dev": "wrangler dev",
+		"deploy": "wrangler deploy"
+	},
+	"devDependencies": {
+		"wrangler": "^4.77.0"
+	}
+}
