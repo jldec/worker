@@ -7,4 +7,4 @@ build script just copies a file into dist
 
 deployable on cloudflare workers
 
-chips ahoy!!!!!!
+chips ahoy!!!!!!!
